@@ -23,3 +23,10 @@ An AI-powered financial assistant that automatically monitors financial markets 
 - Fear & Greed API
 - Telegram Bot API
 - GitHub
+
+- AI Analysis
+     ↓
+Telegram
+     ↓
+📱<img width="941" height="789" alt="image" src="https://github.com/user-attachments/assets/ac770bcc-946d-4b84-92bf-a040905c7a11" />
+
