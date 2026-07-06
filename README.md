@@ -14,6 +14,11 @@ An AI-powered financial assistant that automatically monitors financial markets 
 - Telegram Notifications
 - Portfolio Suggestions
 - Risk Assessment
+- Live Bitcoin Price
+- Fear & Greed Index
+- Crypto News Aggregation
+- AI Market Analysis (Gemini 2.5 Flash)
+- Telegram Notifications
 
 ## Tech Stack
 
