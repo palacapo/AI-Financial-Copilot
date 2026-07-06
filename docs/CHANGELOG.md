@@ -32,3 +32,18 @@ All notable changes to this project will be documented in this file.
 - Telegram Bot integration
 - Automated Telegram reports
 - AI-generated market analysis sent to Telegram
+-
+-
+-   ## v0.4.0
+
+### Added
+- CoinDesk RSS news integration
+- News formatter
+- Telegram daily market report
+- Prompt preparation layer
+- Gemini 2.5 Flash integration
+
+### Changed
+- Refactored AI prompt generation into dedicated node
+- Improved workflow architecture
+- Better separation of concerns
